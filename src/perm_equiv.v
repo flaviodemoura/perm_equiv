@@ -66,3 +66,5 @@ O teorema a seguir formaliza que as definições [Permutation] e [equiv] são eq
 Theorem perm_equiv: forall l l', Permutation l l' <-> equiv l l'.
 Proof. Admitted.
 
+(** Repositório: %\url{https://github.com/flaviodemoura/perm_equiv}% *)
+
